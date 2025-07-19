@@ -58,17 +58,15 @@ The purpose of Vision Mate is to empower visually impaired individuals by bridgi
 
 ## Screenshots  
 
-## Screenshots  
+<img src="https://github.com/user-attachments/assets/900dc079-898c-42b9-996f-22267ff8b49b" alt="Home Screen" width="300" height="600" />
 
-<img src="https://github.com/user-attachments/assets/900dc079-898c-42b9-996f-22267ff8b49b" alt="Home Screen" width="300" />
+<img src="https://github.com/user-attachments/assets/bfca440f-3448-4249-a697-4875620a4b44" alt="Object Detection" width="300" height="600" />
 
-<img src="https://github.com/user-attachments/assets/bfca440f-3448-4249-a697-4875620a4b44" alt="Object Detection" width="300" />
+<img src="https://github.com/user-attachments/assets/cc771006-14c6-4ab8-9d67-e4c4a16a02a2" alt="OCR" width="300" height="600" />
 
-<img src="https://github.com/user-attachments/assets/cc771006-14c6-4ab8-9d67-e4c4a16a02a2" alt="OCR" width="300" />
+<img src="https://github.com/user-attachments/assets/5b7d759e-6ce2-42f6-b52d-bfabb7c60ae3" alt="Color Detection" width="300" height="600" />
 
-<img src="https://github.com/user-attachments/assets/5b7d759e-6ce2-42f6-b52d-bfabb7c60ae3" alt="Color Detection" width="300" />
-
-<img src="https://github.com/user-attachments/assets/7e00b2f0-3c67-4845-b928-e6f33894870a" alt="Settings" width="300" />
+<img src="https://github.com/user-attachments/assets/7e00b2f0-3c67-4845-b928-e6f33894870a" alt="Settings" width="300" height="600" />
 
 
 ## How to Use
