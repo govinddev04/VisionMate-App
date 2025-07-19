@@ -58,7 +58,8 @@ The purpose of Vision Mate is to empower visually impaired individuals by bridgi
 
 ## Screenshots  
 
-<img src="https://github.com/user-attachments/assets/900dc079-898c-42b9-996f-22267ff8b49b" alt="Home Screen" width="300" height="600" />
+<img width="419" height="858" alt="image" src="https://github.com/user-attachments/assets/87f5a3cb-75f1-428f-bf6b-91923a241f85" />
+
 
 <img src="https://github.com/user-attachments/assets/bfca440f-3448-4249-a697-4875620a4b44" alt="Object Detection" width="300" height="600" />
 
